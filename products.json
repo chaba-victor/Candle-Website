@@ -6,7 +6,7 @@
           "name": "Vanilla",
           "description": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
           "price": "800",
-          "url": "Android+Small+Removable+Sticker+Sheet"
+          "url": "/products.json"
         },
         {
             "id": "2",
@@ -20,28 +20,28 @@
             "name": "Vanilla",
             "description": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
             "price": "800",
-            "url": "Android+Small+Removable+Sticker+Sheet"
+            "url": "/products.json"
         },
         {
             "id": "4",
             "name": "Vanilla",
             "description": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
             "price": "800",
-            "url": "Android+Small+Removable+Sticker+Sheet"
+            "url": "/products.json"
         },
         {
             "id": "5",
             "name": "Strasberry",
             "description": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
             "price": "800",
-            "url": "Android+Small+Removable+Sticker+Sheet"
+            "url": "/products.json"
         },
         {
             "id": "6",
             "name": "Strasberry",
             "description": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
             "price": "800",
-            "url": "Android+Small+Removable+Sticker+Sheet"
+            "url": "/products.json"
         }
       ]
     }
