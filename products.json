@@ -1,6 +1,7 @@
 {
           
-    "products": [{
+    "products":{
+          "item": [{
           "id": "1",
           "name": "Vanilla",
           "description": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
@@ -43,5 +44,5 @@
             "url": "Android+Small+Removable+Sticker+Sheet"
         }
       ]
-    
+    }
   }
